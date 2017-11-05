@@ -4,7 +4,9 @@ This app uses KNPLabs' PHP GitHub API 2.0 ([https://github.com/KnpLabs/php-githu
 # Installation
 - Clone the repository to your computer.
 - From the cloned repository run the following commands:
+
 `docker pull ambientum/php`
+
 `docker compose up`
 - Access the app through the address: http://localhost:8090/
 
